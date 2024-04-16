@@ -1,0 +1,200 @@
+#header{
+    height: 80px;
+  
+}
+#logo{
+width: 135px;
+
+}
+.headercontainer{
+    background-color: black;
+}
+#headerlist{
+    list-style: none;
+}
+.headerlistitem{
+    font-size: 16px;
+    letter-spacing: 0.5px;
+    cursor: pointer;
+    transition: color 0.1s ease;
+}
+.signupcolor{
+    color: rgb(222, 210, 235);
+}
+.headerlistitem:hover{
+    color: rgb(29, 201, 29);
+}
+.vertical-line {
+    border-left: 1px solid white; /* Adjust thickness and color as needed */
+    height: 17px; /* Adjust height as needed */
+   
+}
+.main-background{
+    background: url('https://www.scdn.co/i/free/lets-play.svg'), linear-gradient(to bottom, #eb1fa7, #8218e6);
+background-size: cover;
+  
+    background-position: center;
+   
+}
+.section-1{
+    height: 595px;
+  
+    padding: 80px;
+    padding-top: 100px;
+}
+.hero-image{
+    width: 280px;
+    
+}
+.hero-image-container{
+    border-top-left-radius: 30px; /* Adjust the radius as needed */
+    border-top-right-radius: 30px; /* Adjust the radius as needed */
+    
+}
+.hero-heading{
+    font-size: 60px;
+    font-weight: 700;
+    letter-spacing: normal;
+    line-height: 1.2;
+   
+}
+.get-spotify{
+    text-decoration: none;
+    padding: 12px 38px 12px 38px;
+    background-color: white;
+    border-radius: 24px;
+    
+}
+.speaker{
+    height: 6px;
+    width: 45px;
+    border-radius: 7px;
+    background-color: black;
+}
+.section-2{
+    height: 500px;
+}
+.why-spotify{
+margin-top: 70px;
+color: rgb(2, 0, 0);
+
+}
+.list-para{
+font-size: 16px;
+letter-spacing: 0.5px;
+font-weight: 500;
+margin-top: 10px;
+
+}
+.list{
+    margin-top: 30px;
+}
+.section-3{
+    height: 450px;
+    background:   linear-gradient(to bottom, #c30bdb, #8712b6,rgb(123, 45, 224));
+}
+.credit-card{
+
+    font-size: 3rem;
+    font-weight: 650;
+    max-width: 700px;
+    text-align: center;
+}
+.section-4{
+    height: 523px;
+
+}
+.question-heading {
+
+    font-size: 2.5rem;
+
+}
+.question:hover{
+    text-decoration: underline;
+   
+}
+
+.question{
+    cursor: pointer;
+    font-size: 17px;
+
+}
+.question-list-item{
+    height: 80px;
+width: 100%;
+
+box-shadow: rgba(65, 64, 64, 0.15) 0.1px 1px 0.1px;
+    margin-top: 5px;
+   
+}
+.question-list-item:hover
+{
+    background-color: rgb(244, 244, 247);
+}
+.section-5{
+
+    height: 430px;
+    background: url('https://www.scdn.co/i/free/lets-play.svg'), linear-gradient(to bottom, #eb1fa7, #8218e6);
+    background-size: cover;
+      
+        background-position: center;
+}
+.ready-lets-play{
+font-size: 5rem;
+font-weight: 670;
+}
+.footer{
+    background-color: black;
+    height: 530px;
+}
+.footer-logo{
+    width: 130px;
+    height: 40px;
+    cursor: pointer;
+}
+
+
+.footer-link{
+    color: white;
+    text-decoration: none;
+    transition: color 0.1s ease;
+    cursor: pointer;
+
+}
+.link-heading{
+    color: grey;
+    text-decoration: none;
+    font-size: 12.5px;
+    font-weight: 700;
+}
+.footer-link:hover{
+    color: rgb(34, 190, 34);
+}
+.social-logo{
+    cursor: pointer;
+}
+
+.social-logo:hover{
+    color:rgb(34, 190, 34);
+}
+.footer-container{
+    padding: 6rem 1rem 3rem 1rem;
+}
+.footer-bottom-links{
+font-size: 12px;
+color: rgb(138, 133, 133);
+font-weight: 600;
+cursor: pointer;
+}
+.footer-bottom-links-copy{
+    font-size: 12px;
+color: rgb(138, 133, 133);
+font-weight: 600;
+
+}
+.footer-bottom-links:hover{
+    color: rgb(30, 156, 30);
+}
+.down-arrow{
+    width: 2.6rem;
+}
